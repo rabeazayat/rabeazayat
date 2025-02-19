@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 Frontend Developer
+# 🚀 Rabea Shaban - Frontend Developer
 
 I am a passionate **Frontend Developer** dedicated to crafting modern, responsive, and user-friendly web applications. My expertise lies in building seamless UI/UX experiences using the latest web technologies.
 
@@ -48,8 +48,9 @@ With a solid foundation in **JavaScript, TypeScript, React, and Redux**, I speci
 
 # 📈 Let's Connect
 
-- 🌐 [Portfolio Website](#)
-- 📧 [Email](mailto:your.email@example.com)
+- 🌐 [Portfolio Website](http://betasociall.com)
+- 📧 [Email](mailto:r.shaban.2016@gmail.com)
+- 📱 [Phone: +2 01156807072](tel:+201156807072)
 - 💬 [Twitter](#)
 - 🎥 [YouTube](#)
 
